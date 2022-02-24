@@ -5,7 +5,7 @@ category: resume
 title: Intern Software Developer<br><i><a href="https://www.fbi.ie/">Future Business</a></i>
 description: |
 ---
-<i>Jan 2020 - Mar 2020</i>
+<i>Jan 2020 - Mar 2020 (Dublin, Ireland)</i>
 <br>
 <br>
-Development of applications and services in C # related to the digitization, classification and management of documents of all kinds.
+Developed an application for Android devices capable of connecting company customers with the CMS of their websites.

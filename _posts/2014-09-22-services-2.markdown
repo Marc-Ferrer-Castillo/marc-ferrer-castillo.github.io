@@ -5,7 +5,7 @@ category: resume
 title: Software Developer<br><i><a href="https://www.matrix-dv.com">Matrix Development System</a></i>
 description: |
 ---
-<i>Sep 2020 - Feb 2021</i>
+<i>Sep 2020 - Feb 2021 (Barcelona, Spain)</i>
 <br>
 <br>
 Development of applications and services in C # related to the digitization, classification and management of documents of all kinds.

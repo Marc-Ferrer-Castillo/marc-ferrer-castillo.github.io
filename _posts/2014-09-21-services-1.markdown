@@ -5,7 +5,7 @@ category: Resume
 title: Software Developer<br><i><a href="https://www.netatvision.de/">NET@vision</a></i>
 description: |
 ---
-<i>Aug 2021 - Present</i>
+<i>Aug 2021 - Present (Göttingen, Germany)</i>
 <br>
 <br>
 .NET Core, .NET Framework, ASP.NET, SQL databases
