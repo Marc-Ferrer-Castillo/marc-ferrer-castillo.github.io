@@ -24,6 +24,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
+ - title: email
+    url: mailto:contact@marcferrer.eu
   - title: github
     url: https://github.com/Marc-Ferrer-Castillo
   - title: linkedin
