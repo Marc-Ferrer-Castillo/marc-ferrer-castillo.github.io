@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 
+img: navlog.png
 category: Services
 title: Software Developer<br><i>NET@vision</i>
 description: |
