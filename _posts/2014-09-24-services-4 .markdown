@@ -2,8 +2,7 @@
 layout: default
 img: evcomparator.png
 category: resume
-title: EV Comparator<br><h4><i><a href="https://play.google.com/store/apps/details?id=com.marcferrer.evcomparator">
-EV Comparator</a></i></h4>
+title: EV Comparator<br><h4><i><a href="https://play.google.com/store/apps/details?id=com.marcferrer.evcomparator">EV Comparator</a></i></h4>
 description: |
 ---
 <i>Apr 2020 - May 2020 (Barcelona, Spain)</i>
