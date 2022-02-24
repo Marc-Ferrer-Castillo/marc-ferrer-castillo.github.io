@@ -1390,10 +1390,9 @@ pre code {
   border-radius: 0;
 }
 .companylogo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  text-align: center;
+  max-width: 200px;
+  vertical-align: middle;
 }
 .pre-scrollable {
   max-height: 340px;
