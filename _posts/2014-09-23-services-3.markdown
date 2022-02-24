@@ -2,7 +2,7 @@
 layout: default
 img: fb.png
 category: resume
-title: Intern Software Developer<br><i><a href="https://www.fbi.ie/">Future Business</a></i>
+title: Intern Software Developer<br><h4><i><a href="https://www.fbi.ie/">Future Business</a></i></h4>
 description: |
 ---
 <i>Jan 2020 - Mar 2020 (Dublin, Ireland)</i>

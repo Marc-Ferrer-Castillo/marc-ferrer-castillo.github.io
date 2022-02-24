@@ -2,7 +2,7 @@
 layout: default
 img: matrix.png
 category: resume
-title: Software Developer<br><i><a href="https://www.matrix-dv.com">Matrix Development System</a></i>
+title: Software Developer<br><h4><i><a href="https://www.matrix-dv.com">Matrix Development System</a></i></h4>
 description: |
 ---
 <i>Sep 2020 - Feb 2021 (Barcelona, Spain)</i>
