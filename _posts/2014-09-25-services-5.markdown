@@ -1,6 +1,6 @@
 ---
 layout: default
-img: fb.png
+img: mnactec.png
 category: resume
 title: Content Editable Game<br><h4><i><a href="https://mnactec.cat/en">National Museum of Science and Industry of Catalonia</a></i></h4>
 description: |
