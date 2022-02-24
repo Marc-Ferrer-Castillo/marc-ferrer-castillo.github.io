@@ -1,8 +1,11 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: fb.png
+category: resume
+title: Intern Software Developer<br><i><a href="https://www.fbi.ie/">Future Business</a></i>
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+<i>Jan 2020 - Mar 2020</i>
+<br>
+<br>
+Development of applications and services in C # related to the digitization, classification and management of documents of all kinds.

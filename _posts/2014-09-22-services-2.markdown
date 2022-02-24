@@ -1,10 +1,11 @@
 ---
 layout: default
-img: dog.png
-category: Services
-title: 3D Device Mockups<br>by PSDCovers
+img: matrix.png
+category: resume
+title: Software Developer<br><i><a href="https://www.matrix-dv.com">Matrix Development System</a></i>
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+<i>Sep 2020 - Feb 2021</i>
+<br>
+<br>
+Development of applications and services in C # related to the digitization, classification and management of documents of all kinds.

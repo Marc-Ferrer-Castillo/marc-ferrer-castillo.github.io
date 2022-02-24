@@ -2,10 +2,10 @@
 layout: default
 img: navlog.png
 category: Resume
-title: Software Developer<br><i>NET@vision</i>
+title: Software Developer<br><i><a href="https://www.netatvision.de/">NET@vision</a></i>
 description: |
 ---
-Aug 2021 - Present
+<i>Aug 2021 - Present</i>
 <br>
 <br>
-<i>.NET Core, .NET Framework, ASP.NET, SQL databases</i>
+.NET Core, .NET Framework, ASP.NET, SQL databases
