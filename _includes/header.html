@@ -43,15 +43,11 @@
 						<h3>{{ page.subTitle }}</h3>
 						<hr class="intro-divider">
 						<ul class="list-inline intro-social-buttons">
+							{% for social in site.social %}
 							<li>
-								<a href="mailto:contact@marcferrer.eu" class="btn btn-default btn-lg">
-								<i class="fa-solid fa-envelope"></i> <span class="network-name">{{MAIL}}</span></a>
+								<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
 							</li>
-							<li>
-								<a href="https://github.com/Marc-Ferrer-Castillo" class="btn btn-default btn-lg">
-								<i class="fa-brands fa-github"></i> <span class="network-name">{{GITHUB}}</span></a>
-							</li>
-							
+							{% endfor %}
 						</ul>
 					</div>
 				</div>
