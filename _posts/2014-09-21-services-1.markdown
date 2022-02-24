@@ -1,7 +1,7 @@
 ---
 layout: default
 img: navlog.png
-category: Services
+category: Resume
 title: Software Developer<br><i>NET@vision</i>
 description: |
 ---
