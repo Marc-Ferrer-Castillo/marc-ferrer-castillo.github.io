@@ -5,5 +5,7 @@ category: Resume
 title: Software Developer<br><i>NET@vision</i>
 description: |
 ---
-Anpassungsqualifizierung (Fachinformatiker der Fachrichtung Systemintegration).<br>
+Aug 2021 - Present
+<br>
+<br>
 <i>.NET Core, .NET Framework, ASP.NET, SQL databases</i>
