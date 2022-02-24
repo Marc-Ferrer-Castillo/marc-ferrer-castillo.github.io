@@ -1389,11 +1389,6 @@ pre code {
   background-color: transparent;
   border-radius: 0;
 }
-.companylogo {
-  text-align: center;
-  max-width: 200px;
-  vertical-align: middle;
-}
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
