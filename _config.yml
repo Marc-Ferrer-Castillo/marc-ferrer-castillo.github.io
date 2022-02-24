@@ -24,7 +24,7 @@ permalink: pretty
 # ----------------------- #
 
 social:
- - title: email
+ - title: mail-forward
     url: mailto:contact@marcferrer.eu
   - title: github
     url: https://github.com/Marc-Ferrer-Castillo
