@@ -2,16 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url:
+title: Marc Ferrer Castillo
+email: contact@marcferrer.eu
+author: Marc Ferrer Castillo
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+  Personal github site from Marc Ferrer Castillo
+copyright: 'Copyright &copy; 2022 arc Ferrer Castillo. All Rights Reserved.'
+credits:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +24,7 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/Marc-Ferrer-Castillo
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/marc-ferrer-castillo/
