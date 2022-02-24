@@ -912,7 +912,7 @@ textarea {
 a {
   color: #428bca;
   text-decoration: none;
-  font-size: 28px;
+  font-size: 26px; !important
 }
 a:hover,
 a:focus {
