@@ -939,10 +939,8 @@ img {
   width: 100% \9;
   max-width: 100%;
   height: auto;
-}
-.img-responsive img {
-	width: auto;
-    height: 30px;
+  text-align: center;
+  vertical-align: middle;
 }
 .img-rounded {
   border-radius: 6px;
