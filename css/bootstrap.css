@@ -1389,6 +1389,12 @@ pre code {
   background-color: transparent;
   border-radius: 0;
 }
+.companylogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
@@ -1928,8 +1934,7 @@ pre code {
     width: 50%;
   }
   .col-lg-5 {
-    /*width: 41.66666667%;*/
-	width: 80%;
+    width: 41.66666667%;
   }
   .col-lg-4 {
     width: 33.33333333%;
