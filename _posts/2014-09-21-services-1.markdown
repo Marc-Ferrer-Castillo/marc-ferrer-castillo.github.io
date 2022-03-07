@@ -2,7 +2,7 @@
 layout: default
 img: navlog.png
 category: Resume
-title: Software Developer<br><h4><i><a href="https://www.netatvision.de/">NET@vision</a></i></h4>
+title: Software Developer<br><h4><i><a href="https://www.netatvision.de/">NET@vision</a> - Telekom Partner</i></h4>
 description: |
 ---
 <i>Aug 2021 - Present (Göttingen, Germany)</i>
