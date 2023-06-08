@@ -8,4 +8,12 @@ description: |
 <i>Aug 2021 - Present (Göttingen, Germany)</i>
 <br>
 <br>
-.NET Core, .NET Framework, ASP.NET, SQL databases
+Development of a ticketing system consisting of multiple applications that enables real-time tracking of customer service for the company. Utilizing WPF, Outlook Add-Ins, Exchange Server, SQL database, and Active Directory.
+
+Development of a WPF application that allows customers to manage their respective virtual machines in VMware, create users, manage permissions, resource pools, and other vSphere objects using the vSphere API and PowerCLI.
+
+WPF app + Web API + website that allows customers to automatically establish a connection to their respective remote machines using the Remote Desktop Protocol.
+
+WPF application that simplifies the management of Firewall Builder files and supports customers in managing their firewalls, among other tasks.
+
+Development of small utility applications in WPF for data conversion from CSV/JSON/XML to Excel sheets, PDFs, and HTML.
